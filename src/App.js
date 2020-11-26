@@ -31,7 +31,7 @@ function App() {
                     <Route path="/price-filter" component={Filter} />
                       <Route path="/registration" component={Registration} />
                       <Route path="/login" component={Login} />
-                      <Route path="/e-commerce" component={Home} />
+                      <Route path="/" component={Home} />
                     </Switch>
                 </div>
                 </Grid>
