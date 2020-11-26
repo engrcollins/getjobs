@@ -1,0 +1,51 @@
+.article-list{
+   
+  }
+  
+  .article-searcher{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin: 3px;
+  }
+  
+  .article-button{
+    width: 30px;
+    height: 27px;
+    border-radius: 1px;
+    margin-top: 3px;
+    padding-left: 4px;
+    font-size: 21px;
+  }
+  
+  .customer-details{
+    margin-left: 1px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .customer-group{
+    margin:1px;
+    text-align: left;
+  
+  }
+  
+  .output-labelling{
+    margin-top: 4px;
+    margin-bottom: 0px;
+    width: 100px;
+  }
+  
+  .output-field{
+    width: 300px;
+  }
+
+  .btn{
+    margin: 2px;
+  }
+
+  #list-group-item{
+    border: 2px solid skyblue;
+  }
